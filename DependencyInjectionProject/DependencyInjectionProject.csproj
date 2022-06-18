@@ -5,5 +5,4 @@
   </PropertyGroup>
 
 
-  <PropertyGroup Condition=" '$(RunConfiguration)' == 'DependencyInjectionProject' " />
 </Project>
