@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtTestingProject", "JwtTes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemporaryEmptyProject", "TemporaryEmptyProject\TemporaryEmptyProject.csproj", "{98096745-2EAC-4E97-B75B-F9EBF929A746}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtSwaggerTestProject", "JwtSwaggerTestProject\JwtSwaggerTestProject.csproj", "{4AEA6881-6E28-4A70-8234-5D714B3D7D0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{98096745-2EAC-4E97-B75B-F9EBF929A746}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98096745-2EAC-4E97-B75B-F9EBF929A746}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98096745-2EAC-4E97-B75B-F9EBF929A746}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AEA6881-6E28-4A70-8234-5D714B3D7D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AEA6881-6E28-4A70-8234-5D714B3D7D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AEA6881-6E28-4A70-8234-5D714B3D7D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AEA6881-6E28-4A70-8234-5D714B3D7D0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
